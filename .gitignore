@@ -1,0 +1,10 @@
+bin/testEuler
+.cmake/*
+.idea/*
+.ninja_deps
+.ninja_log
+CMakeCache.txt
+CMakeFiles/*
+Testing/*
+build.ninja
+cmake_install.cmake
